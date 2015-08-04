@@ -1,4 +1,4 @@
-# shaitan
+# ![alt tag](https://github.com/Stelgard/shaitan/blob/master/logo.png)
 Color scheme who whispers into the hearts of Mankind.
 
 ![alt tag](https://github.com/Stelgard/shaitan/blob/master/preview.png)
