@@ -1,7 +1,7 @@
-# ![alt tag](https://github.com/Stelgard/shaitan/blob/master/logo.png)
+# ![shaitan logo](https://github.com/Stelgard/shaitan/blob/master/logo.png)
 Color scheme who whispers into the hearts of Mankind.
 
-![alt tag](https://github.com/Stelgard/shaitan/blob/master/preview.png)
+![shaitan color scheme example](https://github.com/Stelgard/shaitan/blob/master/preview.png)
 
 > Say: I seek refuge with the Lord and Cherisher of Mankind,  
 > The King (or Ruler) of Mankind,  
@@ -15,4 +15,4 @@ whisper),-
 
 A dark color scheme for iTerm2.
 
-![alt tag](https://github.com/Stelgard/shaitan/blob/master/preview%202.png)
+![shaitan color scheme second example](https://github.com/Stelgard/shaitan/blob/master/preview%202.png)
