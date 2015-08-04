@@ -12,3 +12,5 @@ whisper),-
 > Among Jinn and among men.  
 
 > —Quran, sura 114 (Al-Nas), ayat 1–6
+
+A dark color scheme for iTerm2.
