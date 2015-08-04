@@ -1,5 +1,5 @@
 # shaitan
-Color scheme just for me
+Color scheme who whispers into the hearts of Mankind.
 
 ![alt tag](https://github.com/Stelgard/shaitan/blob/master/preview.png)
 
