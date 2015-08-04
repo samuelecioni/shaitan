@@ -14,3 +14,5 @@ whisper),-
 > —Quran, sura 114 (Al-Nas), ayat 1–6
 
 A dark color scheme for iTerm2.
+
+![alt tag](https://github.com/Stelgard/shaitan/blob/master/preview%202.png)
