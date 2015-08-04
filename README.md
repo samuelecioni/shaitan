@@ -11,4 +11,4 @@ whisper),-
 > (The same) who whispers into the hearts of Mankind,-  
 > Among Jinn and among men.  
 
-> —Quran, sura 114 (Al-Nas), ayat 1–6[18]
+> —Quran, sura 114 (Al-Nas), ayat 1–6
